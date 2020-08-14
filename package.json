@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio12",
+  "version": "1.0.0",
+  "description": "manejo de fechas con moment en el ejercicio12 de academlo",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paola vergara",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
